@@ -1,3 +1,5 @@
+//lo usaremos como modelo para crear y probarlo rapidamente las otras rutas
+
 var express = require('express');
 
 var app = express();

@@ -1,3 +1,9 @@
+
+
+// ============================================
+//   Obteniendo la imagen subida por tipo (a medicos, hospitales, usuarios)
+// ============================================
+
 var express = require('express');
 const path = require('path');
 var fs = require('fs');

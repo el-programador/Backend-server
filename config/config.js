@@ -1,4 +1,7 @@
+
+//nuestra semilla para generar el token
 module.exports.SEED = 'este-es-un-seed-dificil';
+
 
 
 // gooogle
